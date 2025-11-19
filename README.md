@@ -1,6 +1,6 @@
 # Assignment Management System
 
-A simple web-based project to manage assignments, submissions, users, and grades. This system allows teachers to upload assignments, students to submit their work, and admins/teachers to track grades and manage all records.
+A simple web-based project to manage assignments,submissions, users, and grades. This system allows teachers to upload assignments, students to submit their work, and admins/teachers to track grades and manage all records.
 
 ---
 
